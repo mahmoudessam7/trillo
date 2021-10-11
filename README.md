@@ -4,7 +4,7 @@ A hotel reservation and rating agency that recommends cozy hotels for your journ
 
 ## Description
 
-This is a theme that is designed with pure CSS, flexbox to be exact. It was designed originally by my instructor, Jonas Schmedtmann but as a student, i coded it entirely from scratch following Mr. Schmedtmann.
+This is a theme that is designed with pure CSS, flexbox to be exact. It was designed originally by my instructor, Jonas Schmedtmann but as a student, I coded it entirely from scratch following Mr. Schmedtmann.
 
 ## Getting Started
 
